@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./silo-banner.png" alt="Silo Öcal — Frontend Developer" />
+  <img src="silo-banner.png" alt="Silo Öcal — Frontend Developer" />
 </p>
 
 <div align="center">
